@@ -1,4 +1,4 @@
-# basic-networking-submission
+# networking-submission-beginner
 
 **Proyek Membangun Web Server (Apache2, Nginx & Node.js)** adalah submission akhir untuk kelas [Belajar Jaringan Komputer untuk Pemula - Dicoding](https://www.dicoding.com/academies/387).
 
